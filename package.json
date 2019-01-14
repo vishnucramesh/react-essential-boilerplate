@@ -1,6 +1,17 @@
 {
   "name": "react-essential-boilerplate",
   "version": "0.1.0",
+  "description": "contains and connected all important packages to develop a scalable react project",
+  "license": "MIT",
+  "repository": "vishnucramesh/react-essential-boilerplate",
+  "keywords": [
+    "react-essential-boilerplate",
+    "react-boilerplate",
+    "react-folder-strecture",
+    "react folder strecture",
+    "react boilerplate",
+    "react essential boilerplate"
+  ],
   "private": false,
   "dependencies": {
     "node-sass": "^4.11.0",
