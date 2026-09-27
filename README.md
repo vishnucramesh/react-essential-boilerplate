@@ -1,6 +1,6 @@
 # react-essential-boilerplate
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 react-essential-boilerplate is a integrated version of all react packages. create scalable react app with this update. All are linked well and maintained scalable folder strecture. .
 
